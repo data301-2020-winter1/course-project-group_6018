@@ -23,4 +23,4 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+Dataset obtained from https://archive.ics.uci.edu/ml/datasets/Air+Quality
