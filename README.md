@@ -26,3 +26,7 @@ Hence, the chosen topic for our group is air quality measurement, where air qual
 ## References
 
 Dataset obtained from https://archive.ics.uci.edu/ml/datasets/Air+Quality, publication of dataset is allowed for academic use.
+
+1. Technology, I. (2015, December 29). Why is it Important to Measure Air Pollution? Retrieved October 26, 2020, from https://www.envirotech-online.com/news/air-monitoring/6/breaking-news/why-is-it-important-to-measure-air-pollution/37243
+
+2. London, A. (2014, March 25). Air pollution 'kills 7 million people a year'. Retrieved October 26, 2020, from https://www.theguardian.com/environment/2014/mar/25/air-pollution-kills-7m-people-a-year
