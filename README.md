@@ -19,7 +19,7 @@ Hence, the chosen topic for our group is air quality measurement, where air qual
 
 ## Team Members
 
-- Yidu Guo (45006160): I love corigs!
+- Yidu Guo (45006160): I love corgis!
 - Peiwen Guo (86423563): I love LEGO and collecting dolls!
 - Person 3: one sentence about you!
 
