@@ -9,7 +9,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+A study conducted by WHO in 2014 found that over 7 million people are killed world wide from air pollution. Surely, that number has increase in recent years as more pollutions are introduced to the environment. Luckily in recent years, the effort to fight air pollution has greatly bostered as more and more people is turning their attention toward enviromental problems. However, significant scientific progress toward this issue cannot be made with out appropriatly collecting and analysing data. Specifically, to test weather a scientific method is capable of eliminating or minimizing air pollution, one would require to carefully collect and analyze data in order to discover the outcome of that method. 
+
+Hence, the chosen topic for our group is air quality measurement, where air quality of an Italian city is recorded for period of 11 months, each recording are in intervals of 1 hour. Sensors collecting the data is able to read concentration of polltants such as C0 and NO2.
 
 ## Describe your dataset in about 150-200 words
 
