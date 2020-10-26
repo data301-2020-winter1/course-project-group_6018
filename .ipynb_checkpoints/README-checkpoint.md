@@ -11,17 +11,17 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 A study conducted by WHO in 2014 found that over 7 million people are killed world wide from air pollution. Surely, that number has increase in recent years as more pollutions are introduced to the environment. Luckily in recent years, the effort to fight air pollution has greatly bostered as more and more people is turning their attention toward enviromental problems. However, significant scientific progress toward this issue cannot be made with out appropriatly collecting and analysing data. Specifically, to test weather a scientific method is capable of eliminating or minimizing air pollution, one would require to carefully collect and analyze data in order to discover the outcome of that method. 
 
-Hence, the chosen topic for our group is air quality measurement, where air quality of an Italian city is recorded for period of 11 months, each recording are in intervals of 1 hour. Sensors collecting the data is able to read concentration of pollutants such as C0 and NO2.
+Hence, the chosen topic for our group is air quality measurement, where air quality of an Italian city is recorded for period of 11 months, each recording are in intervals of 1 hour. Sensors collecting the data is able to read concentration of polltants such as C0 and NO2.
 
 ## Describe your dataset in about 150-200 words
 
-Chosen dataset shows the 9358 instances of measured air quality per hour of an italian city. The device is located on a field in a significantly polluted area,at streel level. The data was provided by Saverio De Vito (saverio.devito '@' enea.it), ENEA (National Agency for New Technologies, Energy and Sustainable Economic Development). The data was recorded between March 2004 to February 2005 which was the longest freely available recordings from a field deployed air quality chemical sensor devices responses. The device mainly measured the  air pollution caused by these 5 metal oxide chemicals: CO, Non Metanic Hydrocarbons, Benzene, Total Nitrogen Oxides (NOx) and Nitrogen Dioxide (NO2). A certified analyzer was also used to verify the concrete hourly averagae of each chemical. The dataset contains the date, time, true hourly average of all chemicals, temperature in Â°C, relative humidity(%) and the absolute humidity(AH).
+{Add your stuff here}
 
 ## Team Members
 
 - Yidu Guo (45006160): I love corgis!
 - Peiwen Guo (86423563): I love LEGO and collecting dolls!
-- Lauren Leam (35820166) : I love travelling! 
+- Person 3: one sentence about you!
 
 ## References
 
