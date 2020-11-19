@@ -7,4 +7,5 @@ Milestone 2: Markdown demonstration:
 **This sentence should be bolded**
 *This setence should be in italic*  
 
-milestone2_methodchaining is my worksheet for implment the method chaining of data wrangling, and making the load_and_process method.  
+- milestone2_methodchaining is my worksheet for implment the method chaining of data wrangling, and making the load_and_process method.   
+- wrangle_withFunction contain making processed data set using function stored in project_functions.py  
