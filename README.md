@@ -10,6 +10,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Milestone 2:  
 Task 1-4 can be found in analysis under our individual folder and scripts.  
 Task 5 can be found in analysis under submitted.  
+*we made some changes after 6pm, final version is pushed at 7pm*
 
 ## Describe your topic/interest in about 150-200 words
 
