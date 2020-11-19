@@ -9,3 +9,4 @@ Milestone 2: Markdown demonstration:
 
 - milestone2_methodchaining is my worksheet for implment the method chaining of data wrangling, and making the load_and_process method.   
 - wrangle_withFunction contain making processed data set using function stored in project_functions.py  
+- EDA contain all files for milestone 2 task 4
