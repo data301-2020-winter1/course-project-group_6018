@@ -5,7 +5,11 @@
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).  
+  
+## Milestone 2:  
+Task 1-4 can be found in analysis under our individual folder and scripts.  
+Task 5 can be found in analysis under submitted.  
 
 ## Describe your topic/interest in about 150-200 words
 
