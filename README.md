@@ -3,6 +3,10 @@
 
 - Measured by sensor consist of array of 5 metal oxide, recordings with intervels of 1 hours are recored for a period of one year are recorded. 
 
+## Final Project Report is under analysis/submitted folders, named ‘Final_Analysis’.
+
+## Milestones
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).  
