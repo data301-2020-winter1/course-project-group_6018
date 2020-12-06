@@ -4,8 +4,8 @@
 - Measured by sensor consist of array of 5 metal oxide, recordings with intervels of 1 hours are recored for a period of one year are recorded. 
 
 ## Final Project Report
-Under analysis/submitted folders, named ‘Final_Analysis’.
-Dashboard Presentation Link: https://youtu.be/o6-Fm-A9BOo
+- Under analysis/submitted folders, named ‘Final_Analysis’.
+- Dashboard Presentation Link: https://youtu.be/o6-Fm-A9BOo 
 
 ## Milestones
 
